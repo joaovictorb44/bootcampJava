@@ -1,0 +1,11 @@
+CMD ----------------------------------------------------------------
+
+Dir : lista as pastas no diretorio que voce esta...
+cd: navegar sobre as pastas... (exemplo: cd /)
+botao tab: (auto completar)
+mkdir: Cria pasta no diretorio onde vc esta...
+echo: printa ou cria arquivo (ex: echo oi > oi.xt)
+del: deleta aquivos
+rmdir: deleta o repositorio (EX: rmdir workspace /S /Q)
+
+

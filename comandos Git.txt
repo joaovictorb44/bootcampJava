@@ -1,0 +1,10 @@
+GIT
+
+git config -- global user.email "email..."
+git config -- global user.name "nome..."
+git init = inicia o vercinamento do cod (na pasta q vc esta)
+git commit -m "comentario" : fazer commit
+git status: mostra o status dos arquivos..
+git push origin master: manda as informaçoes 
+git clone: clona o repositorio remoto no seu repositorio local
+
